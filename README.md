@@ -2,6 +2,9 @@
 **Internship Project — Real Business Data**
 
 ---
+<img width="679" height="368" alt="1" src="https://github.com/user-attachments/assets/062960c4-3e1c-49dd-819c-471a6b33c972" />
+<img width="666" height="375" alt="3" src="https://github.com/user-attachments/assets/e4043914-7f97-4cf5-a5d1-f119c6bf3a17" />
+<img width="675" height="372" alt="2" src="https://github.com/user-attachments/assets/c5e22842-e626-4c6c-8975-7b9b1020af19" />
 
 ## 🧾 Overview
 This project was developed during my **internship** using **Power BI** and is based on **real business data** from a retail environment.  
